@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 📝 Simple WordPress Blog (Customized Theme)
 
 This project is a customized WordPress blog built using the **Twenty Twenty-Four** theme. The header and styling have been modified to include a personal logo and blog title.
